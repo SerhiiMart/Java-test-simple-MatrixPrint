@@ -1,3 +1,3 @@
-# Solution for MatrixPrint exercise.
+# MatrixPrint sulution.
 
-## Second exercise for the Java course for beginers on prometheus.org.ua.
+## Solution for second exercise in Java course for beginers on https://prometheus.org.ua/

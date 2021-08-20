@@ -18,7 +18,7 @@ public class matrixproject {
 				default: System.out.printf("%2d ", j);
 			}
 			if (( j % 5) == 0) {
-				System.out.println("\n");
+				System.out.print("\n");
 			}
 		}
 	}
